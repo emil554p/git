@@ -8,6 +8,8 @@
 
 .produkter p{
     text-align: center;
+    background-color: green;
+    color: yellow;
 }
 
 .produkter img{
