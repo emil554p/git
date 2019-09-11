@@ -5,3 +5,12 @@
 .header h1 {
     text-align: center;
 }
+
+.produkter p{
+    text-align: center;
+}
+
+.produkter img{
+    width: 100%;
+    height: auto;
+}
