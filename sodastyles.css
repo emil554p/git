@@ -6,13 +6,22 @@
     text-align: center;
 }
 
-.produkter p{
+.produkter{
+    font-size: 40px;
+    position: relative;
     text-align: center;
-    background-color: green;
-    color: yellow;
+    color: white;
 }
 
 .produkter img{
-    width: 100%;
+    width: 50%;
     height: auto;
+    opacity: 0.5;
+    clip: rect(0px,100px,0px,0px);
+}
+
+.protxt{
+    position: absolute;
+    top: calc(50% - 20px);
+    left: calc(50% - 20px);
 }
