@@ -6,13 +6,18 @@
     text-align: center;
 }
 
-.produkter p{
+.produkter {
     text-align: center;
     background-color: green;
+}
+
+a {
+    text-decoration: none;
     color: yellow;
 }
 
 .produkter img{
+
     width: 100%;
     height: auto;
 }
